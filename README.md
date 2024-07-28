@@ -2,7 +2,7 @@
 1. Get latest version of Python: https://www.python.org/downloads/windows/
 2. Follow "How to Install Python 3": https://www.howtogeek.com/197947/how-to-install-python-on-windows/#how-to-install-python-3
 3. Download .py from releases ( ---> )
-4. Open Command Prompt and navigate to folder w/ .py
+4. Open Command Prompt
 5. Run the following code in the command prompt (one at a time):
 
 `pip install plotly`
@@ -18,6 +18,10 @@
 7. Change variables in .py (optional):
 
 ![image](https://github.com/user-attachments/assets/caa2cde6-6ce8-4483-b040-c4a1efe41fcf)
+
+8. Right-click on .py and "Open With" Python (required only for the first time you run it)
+
+To run it afterwards:
 
 8. Double-click on .py. It should open a browser tab with your image. Save to png with camera icon in top right corner.
 
