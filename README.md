@@ -11,7 +11,7 @@
 
 `pip install pandas`
 
-6. Create table to turn into graph. It should have three columns named 'x', 'y', and 'size'
+6. Create table to turn into graph. It should be a CSV (comma-separated values) table with three columns named 'x', 'y', and 'size'
 
 ![image](https://github.com/user-attachments/assets/70307c47-56ed-4174-9ac4-eaa5c5c69314)
 
