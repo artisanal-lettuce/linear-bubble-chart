@@ -7,7 +7,7 @@ Mac: https://www.dataquest.io/blog/installing-python-on-mac/
 
    
 3. Download .py from releases ( ---> )
-4. Open Command Prompt
+4. Open Command Prompt (Windows) / Terminal (Mac/Ubuntu)
 5. Run the following code in the command prompt (one at a time):
 
 `pip install plotly`
@@ -31,3 +31,9 @@ To run it afterwards:
 8. Double-click on .py. It should open a browser tab with your image. Save to png with camera icon in top right corner.
 
 ![image](https://github.com/user-attachments/assets/c1f9a848-8b82-4592-8f84-2ad71b7a9de9)
+
+
+### pip in Mac:
+`python -m ensurepip` OR `python3 -m ensurepip`
+
+`python -m pip install –upgrade pip` OR `python3 -m pip install –upgrade pip`
