@@ -1,9 +1,15 @@
 ### In Windows:
 1. Get latest version of Python: https://www.python.org/downloads/windows/
-2. Follow "How to Install Python 3": https://www.howtogeek.com/197947/how-to-install-python-on-windows/#how-to-install-python-3
-3. Download .py from releases ( ---> )
-4. Open Command Prompt
-5. Run the following code in the command prompt (one at a time):
+2. Install Python 3
+
+Windows: https://www.howtogeek.com/197947/how-to-install-python-on-windows/#how-to-install-python-3
+
+Mac: https://www.dataquest.io/blog/installing-python-on-mac/
+
+   
+6. Download .py from releases ( ---> )
+7. Open Command Prompt
+8. Run the following code in the command prompt (one at a time):
 
 `pip install plotly`
 
