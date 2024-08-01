@@ -7,9 +7,9 @@ Windows: https://www.howtogeek.com/197947/how-to-install-python-on-windows/#how-
 Mac: https://www.dataquest.io/blog/installing-python-on-mac/
 
    
-6. Download .py from releases ( ---> )
-7. Open Command Prompt
-8. Run the following code in the command prompt (one at a time):
+3. Download .py from releases ( ---> )
+4. Open Command Prompt
+5. Run the following code in the command prompt (one at a time):
 
 `pip install plotly`
 
