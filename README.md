@@ -1,4 +1,4 @@
-1. Get latest version of Python: https://www.python.org/downloads/windows/
+1. Get latest version of Python: https://www.python.org/downloads
 2. Install Python 3
 
 Windows: https://www.howtogeek.com/197947/how-to-install-python-on-windows/#how-to-install-python-3
