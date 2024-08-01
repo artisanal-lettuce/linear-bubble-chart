@@ -1,4 +1,3 @@
-### In Windows:
 1. Get latest version of Python: https://www.python.org/downloads/windows/
 2. Install Python 3
 
