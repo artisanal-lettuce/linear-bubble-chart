@@ -14,7 +14,7 @@ import numpy as np
 
 
 ## VARIABLES
-input_table = "./test2_3.csv" # table w/ data
+input_table = "./test2.csv" # table w/ data
 image_name = "./image.pdf" # name of the saved image
 # graph titles and names
 graph_title = "</b>Lipid species altered in NDUFS4 KO cells</b>"
