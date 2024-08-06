@@ -31,6 +31,8 @@ To run it afterwards:
 8. Double-click on .py. It should open a browser tab with your image. Save to png with camera icon in top right corner.
 
 ![image](https://github.com/user-attachments/assets/c1f9a848-8b82-4592-8f84-2ad71b7a9de9)
+![image](https://github.com/user-attachments/assets/da54d423-7ddc-4bc5-948a-90c4826118ba)
+
 
 
 ### install pip in Mac:
