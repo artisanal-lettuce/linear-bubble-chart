@@ -33,7 +33,7 @@ To run it afterwards:
 ![image](https://github.com/user-attachments/assets/c1f9a848-8b82-4592-8f84-2ad71b7a9de9)
 
 
-### pip in Mac:
+### install pip in Mac:
 `python -m ensurepip` OR `python3 -m ensurepip`
 
 `python -m pip install –upgrade pip` OR `python3 -m pip install –upgrade pip`
